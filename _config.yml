@@ -24,8 +24,8 @@ description              : "interest : c&cpp mcu linux dynamic_control" # "An am
 url                      : "https://machiavelian.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "https://www.androidlist.co.kr/item/android-apps/904023/com-flaregames-zgs/#" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "https://www.google.com/url?sa=i&url=http%3A%2F%2Fm.blog.naver.com%2Fwine21com%3FRedirect%3DLog%26logNo%3D221939180500&psig=AOvVaw00wu1jXd9wgpBb8yAPEgoj&ust=1617447918792000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDx3Ze13-8CFQAAAAAdAAAAABAD" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : # "https://www.androidlist.co.kr/item/android-apps/904023/com-flaregames-zgs/#" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : # "https://www.google.com/url?sa=i&url=http%3A%2F%2Fm.blog.naver.com%2Fwine21com%3FRedirect%3DLog%26logNo%3D221939180500&psig=AOvVaw00wu1jXd9wgpBb8yAPEgoj&ust=1617447918792000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDx3Ze13-8CFQAAAAAdAAAAABAD" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
